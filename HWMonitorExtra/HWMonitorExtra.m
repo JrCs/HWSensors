@@ -79,8 +79,8 @@
     
     //_menuFont = [NSFont boldSystemFontOfSize:10.0];
     _menuTitleFont = [NSFont fontWithName:@"Helvetica" size:10.0];
-    _menuTextFont = [NSFont fontWithName:@"Helvetica" size:12.0];
-    _menuValueFont = [NSFont fontWithName:@"Helvetica Bold" size:12.0];
+    _menuTextFont  = [NSFont fontWithName:@"Helvetica Bold" size:11.0];
+    _menuValueFont = [NSFont fontWithName:@"Helvetica Bold" size:11.0];
     
     [_mainMenu setFont:_menuValueFont];
     
